@@ -2,9 +2,9 @@
 It is a real time messaging app using ReactNative and firebase.
 
 **To see in action use below links**
-> _<a href="">Web View</a> (Firebase deployment)_
+> _<a href="https://hola-1debb.web.app">Web View</a> (Firebase deployment)_
 > <br>
-> _<a href="">iOS & Android View</a> (Expo deployment)_
+> _<a href="https://expo.io/@kaushikswapnil/hola">iOS & Android View</a> (Expo deployment)_
 
 # Description
 It is a Real-Time messaging application build with _ReactNative_ and _Firebase_.
